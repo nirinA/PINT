@@ -82,7 +82,7 @@ and reusable. We therefore have the following requests for new
 (and existing!) code:
  - All code should be documented with docstrings, and with 
     additional explanation where appropriate; please follow the AstroPy
-    documentation guidelines_ for "finished" functions and at least
+    documentation [guidelines] for "finished" functions and at least
     include a one-sentence summary plus an explanation even if the
     function is still under development. Check Sphinx output to see if
     it makes sensse.
@@ -107,7 +107,7 @@ for example, but you can't figure out how to reduce their number, leave
 the warning as a reminder until you or somebody else figure out how to 
 break up the method into simpler pieces.
 
-.. _guidelines: http://docs.astropy.org/en/stable/development/docguide.html
+[guidelines]: http://docs.astropy.org/en/stable/development/docguide.html
 
 ## NOTE:  Compiling ERFA from scratch
 This can be a kind of a PITA, so until ERFA is part of astropy (which
